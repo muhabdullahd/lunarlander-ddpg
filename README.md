@@ -21,9 +21,8 @@ The repository includes:
 
 ### Demo Video
 
-1. Clone the repository
-2. Run the test script: `python test_lunarlander_continuous.py`
-3. This will generate a new demo of the agent's performance
+Watch the trained agent in action: [Watch Demo](https://github.com/muhabdullahd/lunarlander-ddpg/blob/main/lunarlander_demo.mov)
+
 
 ## Requirements
 
